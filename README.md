@@ -27,7 +27,7 @@ The fetched joke will be displayed on the webpage.
 
 ## Deployment
 
-This project is deployed on Render. You can access it [here](https://blog-webapp-e1nh.onrender.com/).
+This project is deployed on Render. You can access it [here](https://devjokes-mzwe.onrender.com).
 
 ## Contributing
 
