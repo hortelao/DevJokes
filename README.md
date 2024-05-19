@@ -28,6 +28,7 @@ The fetched joke will be displayed on the webpage.
 ## Deployment
 
 This project is deployed on Render. You can access it [here](https://devjokes-mzwe.onrender.com).
+NOTE: It may take a minute to display the page due to limitations of Free Tier on Render.
 
 ## Contributing
 
